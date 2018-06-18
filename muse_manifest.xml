@@ -1,0 +1,320 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1529022854909">
+  <folder name="css">
+    <file name="site_global.css" crc="374903159"/>
+    <file name="master_a-master.css" crc="236815640" ref="buyer-s-guide:preparation:bowl:index:faq:whisk-holder:whisk:spoon:preorder"/>
+    <file name="nomq_preview_master_a-master.css" crc="501032543" ref="buyer-s-guide:preparation:bowl:index:faq:whisk-holder:whisk:spoon:preorder"/>
+    <file name="buyer-s-guide.css" crc="4152878998" ref="buyer-s-guide"/>
+    <file name="nomq_buyer-s-guide.css" crc="3767810473" ref="buyer-s-guide"/>
+    <file name="preparation.css" crc="3790890147" ref="preparation"/>
+    <file name="nomq_preparation.css" crc="435184585" ref="preparation"/>
+    <file name="bowl.css" crc="4062519779" ref="bowl"/>
+    <file name="nomq_bowl.css" crc="121616714" ref="bowl"/>
+    <file name="index.css" crc="4035550200" ref="index"/>
+    <file name="nomq_index.css" crc="508958457" ref="index"/>
+    <file name="faq.css" crc="4118312087" ref="faq"/>
+    <file name="nomq_faq.css" crc="256041965" ref="faq"/>
+    <file name="whisk-holder.css" crc="253473574" ref="whisk-holder"/>
+    <file name="nomq_whisk-holder.css" crc="376008352" ref="whisk-holder"/>
+    <file name="whisk.css" crc="4191891598" ref="whisk"/>
+    <file name="nomq_whisk.css" crc="386740137" ref="whisk"/>
+    <file name="spoon.css" crc="193643234" ref="spoon"/>
+    <file name="nomq_spoon.css" crc="120269567" ref="spoon"/>
+    <file name="preorder.css" crc="283743439" ref="preorder"/>
+    <file name="nomq_preorder.css" crc="3789759024" ref="preorder"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="museutils.js" crc="340535759" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="whatinput.js" crc="86476730" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="museconfig.js" crc="310584261" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:preparation:preorder"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="webpro.js" crc="4059564322" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="require.js" crc="7928878" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="form_check.php" crc="4020933626" ref="preorder"/>
+    <file name="form_throttle.php" crc="4259590256" ref="preorder"/>
+    <file name="form_process.php" crc="37464564" ref="preorder"/>
+    <file name="form-u2842.php" crc="4242111526" ref="preorder"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="156048381" ref="index"/>
+    <file name="logo-bowl.svg" crc="488911647" seo="true" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder">
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+      <caption webpage="preparation" alt=""/>
+    </file>
+    <file name="logo bowl_poster_.png" crc="161688217" ref="index"/>
+    <file name="matcha_video_poster.jpg" crc="3788167312" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-home-01.svg" crc="236592625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon home 01_poster_.png" crc="485798604" ref="index"/>
+    <file name="icon-home-02.svg" crc="4239276559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon home 02_poster_.png" crc="4202798442" ref="index"/>
+    <file name="icon-home-03.svg" crc="420900278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon home 03_poster_.png" crc="4075358755" ref="index"/>
+    <file name="bkgd 01.jpg" crc="3797437649" ref="index:preparation">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img video intro poster.jpg" crc="3853803680" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:buyer-s-guide:preparation:faq:preorder:spoon:whisk:bowl:whisk-holder"/>
+    <file name="icon close.svg" crc="130507823" ref="index:preorder"/>
+    <file name="icon close_poster_u6310.png" crc="4217424423" ref="index:preorder"/>
+    <file name="icon-buy-02.svg" crc="4138212987" seo="true" ref="buyer-s-guide">
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+    </file>
+    <file name="icon buy 02_poster_.png" crc="3948146100" ref="buyer-s-guide"/>
+    <file name="icon-tea-grades.svg" crc="3835683494" seo="true" ref="buyer-s-guide">
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+      <caption webpage="buyer-s-guide" alt=""/>
+    </file>
+    <file name="icon tea grades_poster_.png" crc="257834266" ref="buyer-s-guide"/>
+    <file name="bkgd 05-buttonu1698-fr.jpg" crc="384935833" ref="preparation"/>
+    <file name="bkgd 01-buttonu1700-fr.jpg" crc="3968409101" ref="preparation"/>
+    <file name="img bowl 03-buttonu1702-fr.jpg" crc="4121123980" ref="preparation"/>
+    <file name="img holder 01-buttonu1704-fr.jpg" crc="381776951" ref="preparation"/>
+    <file name="bkgd 05-buttonu1698-fr2.jpg" crc="33903278" ref="preparation"/>
+    <file name="img bowl 03-buttonu1702-fr2.jpg" crc="191888657" ref="preparation"/>
+    <file name="img holder 01-buttonu1704-fr2.jpg" crc="467106128" ref="preparation"/>
+    <file name="pasted-svg-143333x107.svg" crc="161548775" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="pasted svg 143333x107_poster_.png" crc="4163946442" ref="faq"/>
+    <file name="pasted-svg-162012x89.svg" crc="105851990" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="pasted svg 162012x89_poster_.png" crc="4187483573" ref="faq"/>
+    <file name="pasted-svg-135606x130.svg" crc="13065428" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="pasted svg 135606x130_poster_.png" crc="4253546502" ref="faq"/>
+    <file name="pasted-svg-1395x141.svg" crc="528544516" seo="true" ref="faq">
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+    </file>
+    <file name="pasted svg 1395x141_poster_.png" crc="4120274889" ref="faq"/>
+    <file name="icon-preorder-large.svg" crc="494560678" seo="true" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="icon preorder large_poster_.png" crc="4239595628" ref="preorder"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="icon-preorder-small.svg" crc="4137984090" seo="true" ref="preorder">
+      <caption webpage="preorder" alt=""/>
+    </file>
+    <file name="icon preorder small_poster_.png" crc="505773037" ref="preorder"/>
+    <file name="icon-measure-spoon.svg" crc="4067729400" seo="true" ref="spoon">
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+    </file>
+    <file name="icon measure spoon_poster_.png" crc="521803426" ref="spoon"/>
+    <file name="img spoon 02.jpg" crc="4061219890" seo="true" ref="spoon">
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+    </file>
+    <file name="img spoon 01.jpg" crc="8314761" seo="true" ref="spoon">
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+    </file>
+    <file name="img spoon 03.jpg" crc="3948531058" seo="true" ref="spoon:whisk:bowl:whisk-holder">
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="spoon" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="spoon:whisk:bowl:whisk-holder"/>
+    <file name="icon-measure-whisk.svg" crc="73798623" seo="true" ref="whisk">
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+    </file>
+    <file name="icon measure whisk_poster_.png" crc="4161537879" ref="whisk"/>
+    <file name="img whisk 02.jpg" crc="141388753" seo="true" ref="whisk">
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+    </file>
+    <file name="img whisk 03.jpg" crc="4212352377" seo="true" ref="whisk">
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+      <caption webpage="whisk" alt=""/>
+    </file>
+    <file name="icon-measure-bowl.svg" crc="4139949992" seo="true" ref="bowl">
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+    </file>
+    <file name="icon measure bowl_poster_.png" crc="148989057" ref="bowl"/>
+    <file name="img bowl 02.jpg" crc="4053461530" seo="true" ref="bowl">
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+    </file>
+    <file name="img bowl 03.jpg" crc="517401032" seo="true" ref="bowl">
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+      <caption webpage="bowl" alt=""/>
+    </file>
+    <file name="icon-measure-holder.svg" crc="341236676" seo="true" ref="whisk-holder">
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+    </file>
+    <file name="icon measure holder_poster_.png" crc="3832502721" ref="whisk-holder"/>
+    <file name="img holder 02.jpg" crc="264728236" seo="true" ref="whisk-holder">
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+    </file>
+    <file name="img holder 03.jpg" crc="307378681" seo="true" ref="whisk-holder">
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+      <caption webpage="whisk-holder" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4081773262" seo="true" mt="1484255134612" redirect="true"/>
+  <file name="buyer-s-guide.html" crc="3875211864" seo="true" mt="1484255134676" redirect="true"/>
+  <file name="preparation.html" crc="312143061" seo="true" mt="1484255134614" redirect="true"/>
+  <file name="faq.html" crc="4163836528" seo="true" mt="1484255134615" redirect="true"/>
+  <file name="preorder.html" crc="361262140" seo="true" mt="1529022840440" redirect="true"/>
+  <file name="spoon.html" crc="3877785630" seo="true" mt="1484255134799" redirect="true"/>
+  <file name="whisk.html" crc="4173852635" seo="true" mt="1484255134677" redirect="true"/>
+  <file name="bowl.html" crc="174081230" seo="true" mt="1484255134739" redirect="true"/>
+  <file name="whisk-holder.html" crc="3886868285" seo="true" mt="1484255134616" redirect="true"/>
+</manifest>
